@@ -9,7 +9,7 @@ Telegram PrivateAutoCaption © @Mo_Tech_YT
 
   </a>
   
-  <a href="https://github.com/PR0FESS0R-99/PrivateAutoCaption/fork">
+  <a href="https://github.com/BAGBOY555/PrivateAutoCaption/fork">
     <img src="https://img.shields.io/github/forks/PR0FESS0R-99/PrivateAutoCaption?label=Fork&style=social">
 
   </a>  
@@ -18,7 +18,7 @@ Telegram PrivateAutoCaption © @Mo_Tech_YT
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/PrivateAutoCaption/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/BAGBOY555/PrivateAutoCaption/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -27,7 +27,7 @@ Telegram PrivateAutoCaption © @Mo_Tech_YT
 <details><summary>Tutorial Video</summary>
 <p>
 <br>
-<a href="https://youtu.be/p4Z9ZN1lZUk"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a> <img src="https://img.shields.io/youtube/views/p4Z9ZN1lZUk?style=social">
+<a href="https://youtube.com/channel/UCgvMKeGX3hNfxfb7yEQpAgQ"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a> <img src="https://img.shields.io/youtube/views/p4Z9ZN1lZUk?style=social">
 </a>
 </p>
 </details>
